@@ -1,0 +1,86 @@
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe.config
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.pdb
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.AssemblyReference.cache
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.SuggestedBindingRedirects.cache
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Form1.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Properties.Resources.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.GenerateResource.cache
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.CoreCompileInputs.cache
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.exe
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.pdb
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.ANAMENU.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.bolumEvraklari.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.GİRİS.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KayitliEmanetler.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KullaniciKayitEkrani.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.muhasebeEvraklari.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.personelEvraklari.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.sinavEvraklari.resources
+C:\Users\necip\VisualStudioProjeler\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.FakulteSKsorgu.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.AssemblyReference.cache
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.exe.config
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.ANAMENU.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.bolumEvraklari.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.FakulteSKsorgu.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Form1.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.GİRİS.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KayitliEmanetler.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KullaniciKayitEkrani.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.muhasebeEvraklari.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.personelEvraklari.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.sinavEvraklari.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Properties.Resources.resources
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.GenerateResource.cache
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.CoreCompileInputs.cache
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.exe
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.pdb
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe.config
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.pdb
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\MySql.Data.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\Google.Protobuf.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\ZstdNet.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\System.Memory.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\System.Buffers.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\bin\Debug\MySql.Data.xml
+C:\Users\Ulaş Ataş\Downloads\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.CopyComplete
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe.config
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.exe
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\ProjeBütSon.pdb
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\MySql.Data.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\Google.Protobuf.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\ZstdNet.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\System.Memory.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\System.Buffers.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\bin\Debug\MySql.Data.xml
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.AssemblyReference.cache
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.exe.config
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.ANAMENU.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.bolumEvraklari.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.FakulteSKsorgu.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Form1.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.GİRİS.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KayitliEmanetler.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.KullaniciKayitEkrani.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.muhasebeEvraklari.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.personelEvraklari.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.FORMLAR.sinavEvraklari.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.Properties.Resources.resources
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.GenerateResource.cache
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.CoreCompileInputs.cache
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.csproj.CopyComplete
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.exe
+C:\Users\Ulaş Ataş\Desktop\ProjeBütSon\ProjeBütSon\obj\Debug\ProjeBütSon.pdb
