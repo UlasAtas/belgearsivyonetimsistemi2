@@ -64,7 +64,8 @@ kullanıcı adı : admin
 * Tablodan seçilen kayıt emanet kaydını sil tuşuna basılarak silinir.
 * Menüye dön tuşu ile ana menüye dönülebilir. 
   
-![image](https://github.com/UlasAtas/belgearsivyonetimsistemi2/assets/108738915/de6fa158-307f-4356-b320-4cccadafa4f0)
+![Ekran görüntüsü 2023-06-22 104036](https://github.com/UlasAtas/belgearsivyonetimsistemi2/assets/108738915/00f16fc4-0b13-4df3-a294-dc285070df0c)
+
 
 
 
