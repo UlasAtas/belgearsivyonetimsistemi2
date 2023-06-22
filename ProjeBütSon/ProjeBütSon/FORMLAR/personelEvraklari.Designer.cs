@@ -247,16 +247,16 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label9.Location = new System.Drawing.Point(37, 78);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.Location = new System.Drawing.Point(21, 78);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 16);
+            this.label9.Size = new System.Drawing.Size(144, 20);
             this.label9.TabIndex = 122;
             this.label9.Text = "Emanetci Soyad";
             // 
             // textBox8
             // 
-            this.textBox8.Location = new System.Drawing.Point(186, 78);
+            this.textBox8.Location = new System.Drawing.Point(186, 76);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(292, 22);
             this.textBox8.TabIndex = 121;
@@ -265,7 +265,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(15, 119);
+            this.label6.Location = new System.Drawing.Point(26, 119);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(139, 20);
             this.label6.TabIndex = 118;
@@ -275,7 +275,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label7.Location = new System.Drawing.Point(37, 37);
+            this.label7.Location = new System.Drawing.Point(45, 37);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(120, 20);
             this.label7.TabIndex = 117;

@@ -283,7 +283,7 @@
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button7.Location = new System.Drawing.Point(340, 182);
+            this.button7.Location = new System.Drawing.Point(340, 197);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(138, 56);
             this.button7.TabIndex = 114;

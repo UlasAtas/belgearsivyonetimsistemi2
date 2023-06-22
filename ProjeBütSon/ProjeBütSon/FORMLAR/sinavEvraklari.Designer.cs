@@ -251,10 +251,10 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label9.Location = new System.Drawing.Point(41, 82);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.Location = new System.Drawing.Point(18, 79);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 16);
+            this.label9.Size = new System.Drawing.Size(144, 20);
             this.label9.TabIndex = 120;
             this.label9.Text = "Emanetci Soyad";
             // 
@@ -279,7 +279,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label8.Location = new System.Drawing.Point(37, 37);
+            this.label8.Location = new System.Drawing.Point(42, 37);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(120, 20);
             this.label8.TabIndex = 117;
@@ -321,7 +321,7 @@
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.textBox4);
             this.panel1.Controls.Add(this.textBox5);
-            this.panel1.Location = new System.Drawing.Point(34, 168);
+            this.panel1.Location = new System.Drawing.Point(34, 165);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(494, 414);
             this.panel1.TabIndex = 119;

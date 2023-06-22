@@ -63,7 +63,7 @@ namespace ProjeBütSon.FORMLAR
         {
             if (Kullaniciaditxt2.Text == "" || sifretxt2.Text == "" || gorevtxt.Text == "")
             {
-                MessageBox.Show("boş alamları doldurunuz");
+                MessageBox.Show("boş alanları doldurunuz");
             }
 
             else

@@ -69,20 +69,37 @@ namespace ProjeBütSon.FORMLAR
 
         private void button7_Click(object sender, EventArgs e)
         {
-            new emanetSERVİCE().EmanetKaydetS( dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox9.Text,textBox4.Text, textBox8.Text,dataGridView1.CurrentRow.Cells[0].Value.ToString());
+            if (textBox9.Text == "" || textBox8.Text == "" || textBox4.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+
+            else
+            {
+                new emanetSERVİCE().EmanetKaydetS(dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox9.Text, textBox4.Text, textBox8.Text, dataGridView1.CurrentRow.Cells[0].Value.ToString());
+                MessageBox.Show("emanet verildi");
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new bolumSERVİCE().BolumKaydetS(textBox2.Text, textBox3.Text);
-            listele();
+            if (textBox2.Text == "" || textBox3.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+            else
+            {
+                new bolumSERVİCE().BolumKaydetS(textBox2.Text, textBox3.Text);
+                listele();
+
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             if (textBox2.Text == "" || textBox3.Text == "")
             {
-                MessageBox.Show("boş alamları doldurunuz");
+                MessageBox.Show("boş alanları doldurunuz");
             }
 
             else

@@ -52,7 +52,7 @@ namespace ProjeBütSon
         {
             if (textBox2.Text == "" || textBox3.Text == "" )
             {
-                MessageBox.Show("boş alamları doldurunuz");
+                MessageBox.Show("boş alanları doldurunuz");
             }
 
             else
@@ -65,8 +65,15 @@ namespace ProjeBütSon
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new ogrenciSERVİCE().OgrenciKaydetS(textBox2.Text, textBox3.Text);
-            listele();
+            if (textBox2.Text == "" || textBox3.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+            else
+            {
+                new ogrenciSERVİCE().OgrenciKaydetS(textBox2.Text, textBox3.Text);
+                listele();
+            }
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -107,7 +114,16 @@ namespace ProjeBütSon
 
         private void button7_Click(object sender, EventArgs e)
         {
-            new emanetSERVİCE().EmanetKaydetS(dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox5.Text, textBox6.Text, textBox4.Text,dataGridView1.CurrentRow.Cells[0].Value.ToString());
+            if (textBox5.Text == "" || textBox6.Text == "" || textBox4.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+
+            else
+            {
+                new emanetSERVİCE().EmanetKaydetS(dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox5.Text, textBox6.Text, textBox4.Text, dataGridView1.CurrentRow.Cells[0].Value.ToString());
+                MessageBox.Show("emanet verildi");
+            }
         }
 
         

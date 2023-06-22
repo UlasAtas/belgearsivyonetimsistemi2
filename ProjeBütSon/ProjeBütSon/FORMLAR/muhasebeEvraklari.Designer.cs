@@ -202,7 +202,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(174, 102);
+            this.textBox3.Location = new System.Drawing.Point(174, 105);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(292, 22);
             this.textBox3.TabIndex = 108;
@@ -211,7 +211,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(31, 176);
+            this.label4.Location = new System.Drawing.Point(31, 175);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(115, 20);
             this.label4.TabIndex = 112;
@@ -229,7 +229,7 @@
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(174, 174);
+            this.textBox4.Location = new System.Drawing.Point(174, 173);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(292, 22);
             this.textBox4.TabIndex = 111;
@@ -238,7 +238,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(37, 104);
+            this.label3.Location = new System.Drawing.Point(37, 107);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(108, 20);
             this.label3.TabIndex = 110;
@@ -246,7 +246,7 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(186, 86);
+            this.textBox7.Location = new System.Drawing.Point(186, 82);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(292, 22);
             this.textBox7.TabIndex = 124;
@@ -254,10 +254,10 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label9.Location = new System.Drawing.Point(37, 93);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.Location = new System.Drawing.Point(17, 82);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 16);
+            this.label9.Size = new System.Drawing.Size(144, 20);
             this.label9.TabIndex = 123;
             this.label9.Text = "Emanetci Soyad";
             // 
@@ -265,7 +265,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(15, 131);
+            this.label6.Location = new System.Drawing.Point(22, 129);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(139, 20);
             this.label6.TabIndex = 118;
@@ -275,7 +275,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label7.Location = new System.Drawing.Point(37, 37);
+            this.label7.Location = new System.Drawing.Point(41, 35);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(120, 20);
             this.label7.TabIndex = 117;

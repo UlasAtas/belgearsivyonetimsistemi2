@@ -45,15 +45,22 @@ namespace ProjeBütSon.FORMLAR
 
         private void button1_Click(object sender, EventArgs e)
         {
-            new muhasebeSERVİCE().MuhasebeKaydetS(textBox2.Text, textBox3.Text, textBox4.Text);
-            listele();
+            if (textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+            else
+            {
+                new muhasebeSERVİCE().MuhasebeKaydetS(textBox2.Text, textBox3.Text, textBox4.Text);
+                listele();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             if (textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "")
             {
-                MessageBox.Show("boş alamları doldurunuz");
+                MessageBox.Show("boş alanları doldurunuz");
             }
 
             else
@@ -104,7 +111,16 @@ namespace ProjeBütSon.FORMLAR
 
         private void button7_Click(object sender, EventArgs e)
         {
-            new emanetSERVİCE().EmanetKaydetS(dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox6.Text, textBox7.Text, textBox5.Text, dataGridView1.CurrentRow.Cells[0].Value.ToString());
+            if (textBox6.Text == "" || textBox7.Text == "" || textBox5.Text == "")
+            {
+                MessageBox.Show("boş alanları doldurunuz");
+            }
+
+            else
+            {
+                new emanetSERVİCE().EmanetKaydetS(dataGridView1.CurrentRow.Cells[1].Value.ToString(), textBox6.Text, textBox7.Text, textBox5.Text, dataGridView1.CurrentRow.Cells[0].Value.ToString());
+                MessageBox.Show("emanet verildi");
+            }
         }
 
         private void dataGridView1_CellClick_1(object sender, DataGridViewCellEventArgs e)
